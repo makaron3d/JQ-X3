@@ -1,0 +1,32 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0 auto;
+    width: 800px;
+    align-content: center;
+}
+
+ul {
+    list-style: none;
+}
+
+#id {
+    width: 640px;
+    height: 480px;
+    margin: 0 auto;
+    /*overflow: hidden; */
+}
+
+ul {
+    width: 3200px;
+}
+
+li {
+    width: 640px;
+    height: 480px;
+    float: left;
+}

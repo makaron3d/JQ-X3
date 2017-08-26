@@ -30,3 +30,9 @@ li {
     height: 480px;
     float: left;
 }
+p {
+    color: yellow;
+}
+p:focus {
+    color: blue;
+}
